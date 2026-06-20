@@ -216,5 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+<<<<<<< HEAD
 
 ucv-ate-si-laboratorio11/
+=======
+>>>>>>> e385bfd3f8ddb69606efdfe71387f148c20727e8

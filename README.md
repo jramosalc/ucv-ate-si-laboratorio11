@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # alpha-beta-lab
 # Laboratorio: Inteligencia Artificial Adversarial - Poda Alfa-Beta
 
@@ -33,3 +34,7 @@ Se implementó una versión interactiva por consola del juego Tres en Raya en el
 Para ejecutar el reto:
 ```bash
 python -m src.challenge
+=======
+# ucv-ate-si-laboratorio11
+Agente inteligente con pruebas automatizadas y reporte de análisis
+>>>>>>> e385bfd3f8ddb69606efdfe71387f148c20727e8
